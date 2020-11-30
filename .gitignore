@@ -1,0 +1,7 @@
+# Project exclude paths
+/log4j/target/
+/log4j2/target/
+/music1/music-dao/target/
+/music1/music-service/target/
+/music1/music-web/target/
+/quartz/target/

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/log4j/log4j.iml" filepath="$PROJECT_DIR$/log4j/log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log4j2/log4j2.iml" filepath="$PROJECT_DIR$/log4j2/log4j2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music1/music-dao/music-dao.iml" filepath="$PROJECT_DIR$/music1/music-dao/music-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music1/music-service/music-service.iml" filepath="$PROJECT_DIR$/music1/music-service/music-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music1/music-web/music-web.iml" filepath="$PROJECT_DIR$/music1/music-web/music-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music1/music1.iml" filepath="$PROJECT_DIR$/music1/music1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz/quartz.iml" filepath="$PROJECT_DIR$/quartz/quartz.iml" />
+    </modules>
+  </component>
+</project>
